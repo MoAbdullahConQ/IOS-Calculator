@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalculatorIOSVersionOne" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorAccent">@color/grayB</item>
+        <!--        <item name="android:colorPrimaryDark">@color/orange</item>-->
+    </style>
+
+    <style name="Theme.CalculatorIOSVersionOne" parent="Base.Theme.CalculatorIOSVersionOne" />
+</resources>

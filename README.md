@@ -8,17 +8,13 @@
 
 A native Android calculator app built with Java, recreating the look and feel of Apple's iOS Calculator. Includes standard arithmetic operations behind a clean, minimal UI with custom-built iOS-style buttons and full dark mode support.
 
-## Screenshot
+## Demo
+ 
+<a href="https://youtu.be/ouBskwNJPHA">
+  <img src="https://img.youtube.com/vi/ouBskwNJPHA/maxresdefault.jpg" width="600">
+</a>
 
-<p align="center">
-  <!-- <img src="screenshots/calculator-screenshot.png" alt="Calculator app screenshot" width="300"/> -->
-  <img  height="360" alt="Calculator app screenshot" src="https://github.com/user-attachments/assets/df262269-a58f-4d7e-bb0e-8ba2988a633f" />
-
-</p>
-
-## Demo Video
-
-▶️ [Watch the demo on YouTube](https://youtu.be/ouBskwNJPHA)
+*Click the thumbnail above to watch the app in action or click here* ▶️ [Watch the demo](https://youtu.be/ouBskwNJPHA)
 
 ## Features
 
